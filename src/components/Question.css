@@ -1,0 +1,20 @@
+#question {
+    text-align: center;
+    width: 500px;
+    background-color: rgb(115, 61, 177);
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+#question h2 {
+    margin-bottom: 2rem;
+}
+
+#question p {
+    color: rgb(161, 111, 218);
+    margin-bottom: 1rem;
+}
+
+#question img {
+    margin-top: 2rem;
+}
